@@ -290,7 +290,7 @@ The code including all relevant documents are hosted on Github at: [https://gith
 
 ### Google Form Survey form
 
-To help understand our users better and see which ares of concerns college students struggle with that we can aid in, we created a Google Forms survey. The questionaire can be accessed at: [https://forms.gle/EQSPGkfmLfjiM3hm9]((https://forms.gle/EQSPGkfmLfjiM3hm9))
+To help understand our users better and see which ares of concerns college students struggle with that we can aid in, we created a Google Forms survey. The questionaire can be accessed [here](https://forms.gle/EQSPGkfmLfjiM3hm9).
 
 Questions:
 
@@ -301,7 +301,7 @@ Questions:
 
 ### Web scraping result
 
-The [CEAS college website](https://ceas.uc.edu) was scraped using the [GPT Crawler library](https://www.builder.io/blog/custom-gpt#get-started-with-gpt-crawler) by Builder IO. The scraping took 1 hour to recursively scrape 1000 pages from the website, and the output is in the `src/gpt-crawler/output.json` file, and can be accessed through this [link](https://github.com/bhuynhdev/college-compass/blob/main/src/gpt-crawler/output.json)
+The [CEAS college website](https://ceas.uc.edu) was scraped using the [GPT Crawler library](https://www.builder.io/blog/custom-gpt#get-started-with-gpt-crawler) by Builder IO. The scraping took 1 hour to recursively scrape 1000 pages from the website, and the result can be accessed through this [link](https://github.com/bhuynhdev/college-compass/blob/main/src/gpt-crawler/output.json).
 
 ### Images of College Compass's first version result using GPT Assistant
 
